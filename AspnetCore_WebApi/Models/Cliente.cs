@@ -10,6 +10,7 @@ namespace AspnetCore_WebApi.Models
         public long Id { get; set; }
         public string Nome { get; set; }
         public DateTime DtNascimento { get; set; }
+        public string NomeMae { get; set;}
  
 
     }
