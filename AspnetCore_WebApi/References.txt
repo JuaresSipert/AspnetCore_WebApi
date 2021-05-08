@@ -1,0 +1,2 @@
+﻿https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio
+http://www.macoratti.net/17/04/aspcore_webapi1.htm
