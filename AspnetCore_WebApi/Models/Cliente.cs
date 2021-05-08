@@ -13,6 +13,7 @@ namespace AspnetCore_WebApi.Models
         public string NomeMae { get; set;}
         public string NomePai { get; set; }
         public bool Filhos { get; set; }
+        public long QtFilhos { get; set; }
 
     }
 }
